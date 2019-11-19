@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "SwiftJWT"
+  s.name         = "AnbionSwiftJWT"
   s.version      = "3.6.200"
   s.summary      = "An implementation of JSON Web Token using Swift."
   s.homepage     = "https://github.com/AnbionApps/Swift-JWT"
